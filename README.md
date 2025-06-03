@@ -1,4 +1,4 @@
-<img width="1481" alt="스크린샷 2025-06-03 오후 4 24 53" src="https://github.com/user-attachments/assets/ccb829b7-7377-4569-891d-3ea36087c8bd" />
+<img w<img width="1472" alt="스크린샷 2025-06-03 오후 4 29 02" src="https://github.com/user-attachments/assets/b16f68d8-fcc0-4577-93cd-f79d904efd73" />
 <img width="1479" alt="스크린샷 2025-06-03 오후 4 25 16" src="https://github.com/user-attachments/assets/7908422e-ee6d-4e17-86c6-fa0792211e92" />
 <img width="1473" alt="스크린샷 2025-06-03 오후 4 25 28" src="https://github.com/user-attachments/assets/2bad0e02-89ff-40cf-9aba-846201980768" />
 <img width="1476" alt="스크린샷 2025-06-03 오후 4 25 40" src="https://github.com/user-attachments/assets/18b8ed6e-7d0f-49c9-82cd-c8e2b04c4d14" />
