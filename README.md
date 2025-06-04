@@ -1,2 +1,15 @@
-# capstondesign_voicefishing
-캡스톤디자인_보이스피싱탐지
+<img width="1472" alt="스크린샷 2025-06-03 오후 4 29 02" src="https://github.com/user-attachments/assets/b16f68d8-fcc0-4577-93cd-f79d904efd73" />
+<img width="1479" alt="스크린샷 2025-06-03 오후 4 25 16" src="https://github.com/user-attachments/assets/7908422e-ee6d-4e17-86c6-fa0792211e92" />
+<img width="1473" alt="스크린샷 2025-06-03 오후 4 25 28" src="https://github.com/user-attachments/assets/2bad0e02-89ff-40cf-9aba-846201980768" />
+<img width="1476" alt="스크린샷 2025-06-03 오후 4 25 40" src="https://github.com/user-attachments/assets/18b8ed6e-7d0f-49c9-82cd-c8e2b04c4d14" />
+<img width="1478" alt="스크린샷 2025-06-03 오후 4 25 52" src="https://github.com/user-attachments/assets/bbe277ea-db7b-427e-866c-7044ebf30cae" />
+<img width="1475" alt="스크린샷 2025-06-03 오후 4 26 07" src="https://github.com/user-attachments/assets/f3718fc9-03c8-43fd-94b9-82877ad87dcf" />
+<img width="1473" alt="스크린샷 2025-06-03 오후 4 26 20" src="https://github.com/user-attachments/assets/3cf48bc0-6879-472b-b0f6-dc86710f253a" />
+<img width="1473" alt="스크린샷 2025-06-03 오후 4 26 35" src="https://github.com/user-attachments/assets/68688e7a-4321-42cc-9084-9de06e343b52" />
+<img width="1471" alt="스크린샷 2025-06-03 오후 4 26 50" src="https://github.com/user-attachments/assets/351f0c56-de0d-43e1-a3a4-f0c220c9131b" />
+<img width="1465" alt="스크린샷 2025-06-03 오후 4 27 03" src="https://github.com/user-attachments/assets/eea74c74-b08b-4286-8155-9783e1b28448" />
+<img width="1474" alt="스크린샷 2025-06-03 오후 4 27 16" src="https://github.com/user-attachments/assets/bace8401-abf6-4df5-a520-4744d245963b" />
+<img width="1473" alt="스크린샷 2025-06-03 오후 4 27 29" src="https://github.com/user-attachments/assets/12c76b91-3c36-4912-b79a-0033b063a7ac" />
+<img width="1466" alt="스크린샷 2025-06-03 오후 4 27 41" src="https://github.com/user-attachments/assets/78d272a5-78f4-4e53-b24a-1dd59506665d" />
+<img width="1467" alt="스크린샷 2025-06-03 오후 4 27 52" src="https://github.com/user-attachments/assets/f421018b-b523-4010-8765-2889b805d42a" />
+<img width="1476" alt="스크린샷 2025-06-03 오후 4 28 01" src="https://github.com/user-attachments/assets/9c6c9dc2-ac9f-4572-b316-840f38ae7336" />
